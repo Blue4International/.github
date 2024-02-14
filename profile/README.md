@@ -5,7 +5,7 @@
 + Our work is ‘valid and practical’; it is underpinned by rigorous research and is delivered by consultants who have been leaders in their own right.
 
 <p align="center">
-  <img src="images/Quadrant-Man.png" />
+  <img src="https://github.com/Blue4International/.github/blob/main/profile/images/Quadrant-Man.png" />
 </p>
 
 ## Blue4 Leadership
