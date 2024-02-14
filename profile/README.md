@@ -4,7 +4,9 @@
 + We train and accredit individuals and organisations to use our tools and approaches, helping maximise the ROI of work we conduct.
 + Our work is ‘valid and practical’; it is underpinned by rigorous research and is delivered by consultants who have been leaders in their own right.
 
-![Quadrant Man](images/Quadrant-Man.gif)
+<p align="center">
+  <img src="images/Quadrant-Man.gif" />
+</p>
 
 ## Blue4 Leadership
 'Blue 4' is a behavioural style of leadership that our research and practical activities with leaders around the world has shown to be incontrovertibly associated with outstanding performance as a leader. This style of leadership represents behaviour that combines setting direction with being concerned about people, be they those working for the organisation, its suppliers, customers or business partners.
